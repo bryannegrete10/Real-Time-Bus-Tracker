@@ -23,6 +23,7 @@ Coursework only
 Staff at MIT.
 
 ## Roadmap:
+Improvements- A button could be added to the map for multiple views for better experience. 
 
 
 ## License Information:
