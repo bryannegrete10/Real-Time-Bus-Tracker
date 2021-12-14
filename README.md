@@ -5,14 +5,16 @@
 Real Time Bus Tracker
 
 ## Description:
-
+Every 15 seconds the map is updated with a different bus stop locations. Pins are placed where ever the bus stops are located following along the map.
 
 
 ## Installation / How to run:
+First download the repository by clicking on download zip file. Unzip file and drag and drop on browser. 
 
 
 
 ## Usage:
+Coursework only 
 
 
 
